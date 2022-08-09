@@ -1,15 +1,4 @@
-# Basic Sample Hardhat Project
+Basic simple buy me a coffee project deployed to goerli @ 0xE92dCcf159213116595085878040957463E3604f
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Replit website was also built, interacts with metamask wallet and contract. 
+Final challenge of allowing owner to change withdraw address, and only limit that function to owner was implemented. 
